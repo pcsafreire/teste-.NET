@@ -1,0 +1,15 @@
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\TesteEvolution.csproj.AssemblyReference.cache
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\TesteEvolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\TesteEvolution.AssemblyInfoInputs.cache
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\TesteEvolution.AssemblyInfo.cs
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\TesteEvolution.csproj.CoreCompileInputs.cache
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\bin\Debug\net6.0\TesteEvolution.exe
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\bin\Debug\net6.0\TesteEvolution.deps.json
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\bin\Debug\net6.0\TesteEvolution.runtimeconfig.json
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\bin\Debug\net6.0\TesteEvolution.dll
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\bin\Debug\net6.0\TesteEvolution.pdb
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\TesteEvolution.dll
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\refint\TesteEvolution.dll
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\TesteEvolution.pdb
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\TesteEvolution.genruntimeconfig.cache
+C:\Users\Sá Freire\Desktop\test\TesteEvolution\obj\Debug\net6.0\ref\TesteEvolution.dll
