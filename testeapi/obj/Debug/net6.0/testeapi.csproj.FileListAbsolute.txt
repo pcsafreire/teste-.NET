@@ -1,7 +1,0 @@
-C:\Users\Sá Freire\Desktop\testeapi\obj\Debug\net6.0\testeapi.csproj.AssemblyReference.cache
-C:\Users\Sá Freire\Desktop\testeapi\obj\Debug\net6.0\testeapi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Sá Freire\Desktop\testeapi\obj\Debug\net6.0\testeapi.AssemblyInfoInputs.cache
-C:\Users\Sá Freire\Desktop\testeapi\obj\Debug\net6.0\testeapi.AssemblyInfo.cs
-C:\Users\Sá Freire\Desktop\testeapi\obj\Debug\net6.0\testeapi.csproj.CoreCompileInputs.cache
-C:\Users\Sá Freire\Desktop\testeapi\obj\Debug\net6.0\testeapi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Sá Freire\Desktop\testeapi\obj\Debug\net6.0\testeapi.MvcApplicationPartsAssemblyInfo.cache
